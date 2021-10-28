@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/RehabEng-Deploy/static/css/main.a17933d8.chunk.css",
+    "main.js": "/RehabEng-Deploy/static/js/main.b525d93a.chunk.js",
+    "main.js.map": "/RehabEng-Deploy/static/js/main.b525d93a.chunk.js.map",
+    "runtime-main.js": "/RehabEng-Deploy/static/js/runtime-main.5ff26713.js",
+    "runtime-main.js.map": "/RehabEng-Deploy/static/js/runtime-main.5ff26713.js.map",
+    "static/js/2.dbca1e82.chunk.js": "/RehabEng-Deploy/static/js/2.dbca1e82.chunk.js",
+    "static/js/2.dbca1e82.chunk.js.map": "/RehabEng-Deploy/static/js/2.dbca1e82.chunk.js.map",
+    "static/js/3.d71c275d.chunk.js": "/RehabEng-Deploy/static/js/3.d71c275d.chunk.js",
+    "static/js/3.d71c275d.chunk.js.map": "/RehabEng-Deploy/static/js/3.d71c275d.chunk.js.map",
+    "index.html": "/RehabEng-Deploy/index.html",
+    "static/css/main.a17933d8.chunk.css.map": "/RehabEng-Deploy/static/css/main.a17933d8.chunk.css.map",
+    "static/js/2.dbca1e82.chunk.js.LICENSE.txt": "/RehabEng-Deploy/static/js/2.dbca1e82.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/RehabEng-Deploy/static/media/SpaceMono-Regular.ab58bedc.ttf",
+    "static/media/facebook.a4199a2e.png": "/RehabEng-Deploy/static/media/facebook.a4199a2e.png",
+    "static/media/rehabEng_merch.b1817b07.png": "/RehabEng-Deploy/static/media/rehabEng_merch.b1817b07.png",
+    "static/media/stock.cab7e4f1.svg": "/RehabEng-Deploy/static/media/stock.cab7e4f1.svg",
+    "static/media/surgical1.2cac3b75.svg": "/RehabEng-Deploy/static/media/surgical1.2cac3b75.svg",
+    "static/media/surgical2.a572a0db.svg": "/RehabEng-Deploy/static/media/surgical2.a572a0db.svg",
+    "static/media/surgical3.64f2e346.svg": "/RehabEng-Deploy/static/media/surgical3.64f2e346.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff26713.js",
+    "static/js/2.dbca1e82.chunk.js",
+    "static/css/main.a17933d8.chunk.css",
+    "static/js/main.b525d93a.chunk.js"
+  ]
+}
